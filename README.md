@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOL359A-FoundationsOfQBio-Spr22/week5_modelselection/blob/master/complexity%2C%20overfitting%2C%20and%20model%20selection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOL359A-FoundationsOfQBio-Spr23/week7_modelselection/blob/master/complexity%2C%20overfitting%2C%20and%20model%20selection.ipynb)
